@@ -1,12 +1,13 @@
 # KimPuro's Next.js team project Boilerplate
 
 이 템플릿 레포지토리는 Next.js를 사용한 팀 프로젝트를 위한 보일러플레이트입니다.  
-Next.js, React 및 Tailwind CSS를 사용하여 프로젝트를 시작할 수 있습니다.
+Next.js, React 및 Tailwind CSS를 사용하여 프로젝트를 시작할 수 있습니다.  
 팀 프로젝트를 원활하게 진행하기 위한 구조와 기능을 제공합니다. 또한 각종 규칙이 사전 정의되어 있습니다.
 
 ## 🚀 Getting Started
 
-이 템플릿을 사용할 때 추천드리는 방법은 GitHub의 템플릿 기능을 사용하는 것입니다.  
+이 템플릿을 사용할 때 추천드리는 방법은 GitHub의 템플릿 기능을 사용하는 것입니다.
+
 ![image](https://github.com/user-attachments/assets/b853c7e4-e3eb-495d-b16b-d6ebecaf5c9c)
 
 또한 git clone을 통해 직접 다운로드 받을 수 있습니다:
