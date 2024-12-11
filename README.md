@@ -76,6 +76,8 @@ git add .
 git commit -m "feat: add new feature"
 ```
 
+`pnpm commit`과 `git commit` 명령어는 commit 생성까지만 진행되기 때문에 추가적으로 `git push`를 진행해 주셔야 합니다.
+
 ### pre-commit
 
 `husky`를 사용해 `pre-commit` 단계에서 크게 3가지의 작업을 실행합니다.
