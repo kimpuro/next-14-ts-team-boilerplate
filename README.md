@@ -101,8 +101,8 @@ git commit -m "feat: add new feature"
 - **👷 ci**: CI 구성 파일 및 스크립트 추가, 변경
 - **🔨 chore**: 소스 또는 테스트 파일을 수정하지 않는 기타 변경 사항
 - **⏪ revert**: 이전 커밋을 되돌림
-
-### `pnpm commit`과 `git commit` 명령어는 commit 생성까지만 진행되기 때문에 추가적으로 `git push`를 진행해 주셔야 합니다.
+  
+**`pnpm commit`과 `git commit` 명령어는 commit 생성까지만 진행되기 때문에 추가적으로 `git push`를 진행해 주셔야 합니다.**
 
 ### CHANGELOG
 
