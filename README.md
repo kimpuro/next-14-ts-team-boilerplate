@@ -62,12 +62,12 @@ pnpm run dev
 
 ### How to commit
 
-`pnpm commit`을 사용하여 미리 정의되어 있는 컨벤션에 맞게 커밋을 생성할 수 있습니다:
-
+`pnpm commit`을 사용하여 미리 정의되어 있는 컨벤션에 맞게 커밋을 생성할 수 있습니다:  
 ```bash
 git add .
 pnpm commit
 ```
+![image](https://github.com/user-attachments/assets/c70506b8-d800-4833-9b4b-fa0f78e12e05)
 
 컨벤션을 지킨다면 `pnpm commit` 명령어가 아닌 `git` 만을 사용해서 커밋 진행도 가능합니다:
 
@@ -78,7 +78,7 @@ git commit -m "feat: add new feature"
 
 ### pre-commit
 
-`husky`를 사용해 `pre-commit` 단계에서 크게 3가지의 작업을 실행합니다.
+`husky`를 사용해 `pre-commit` 단계에서 아래와 같은 작업을 수행합니다.
 
 1. `prettier`를 사용해 스테이징된 파일만을 대상으로 코드 포맷팅을 진행합니다.
 2. `prettier`로 수정된 파일의 변경 사항을 다시 스테이징합니다.
