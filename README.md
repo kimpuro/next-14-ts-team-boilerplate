@@ -6,11 +6,19 @@ Next.js, React 및 Tailwind CSS를 사용하여 프로젝트를 시작할 수 �
 
 ## 🚀 Getting Started
 
-이 템플릿을 사용할 때 추천드리는 방법은 GitHub의 템플릿 기능을 사용하는 것입니다.
+아래는 이 템플릿을 사용하는 3가지 방법입니다.
+
+### 1. npx로 설치
+
+```bash
+npx @kimpuro/next-14-ts-boilerplate
+```
+
+### 2. GitHub template을 사용
 
 ![image](https://github.com/user-attachments/assets/b853c7e4-e3eb-495d-b16b-d6ebecaf5c9c)
 
-또한 git clone을 통해 직접 다운로드 받을 수 있습니다:
+### 3. git clone을 통해 직접 다운로드
 
 ```bash
 git clone https://github.com/kimpuro/next-14-js-boilerplate.git
@@ -62,11 +70,13 @@ pnpm run dev
 
 ### How to commit
 
-`pnpm commit`을 사용하여 미리 정의되어 있는 컨벤션에 맞게 커밋을 생성할 수 있습니다:  
+`pnpm commit`을 사용하여 미리 정의되어 있는 컨벤션에 맞게 커밋을 생성할 수 있습니다:
+
 ```bash
 git add .
 pnpm commit
 ```
+
 ![image](https://github.com/user-attachments/assets/c70506b8-d800-4833-9b4b-fa0f78e12e05)
 
 컨벤션을 지킨다면 `pnpm commit` 명령어가 아닌 `git` 만을 사용해서 커밋 진행도 가능합니다:
@@ -102,7 +112,7 @@ git commit -m "feat: add new feature"
 - **👷 ci**: CI 구성 파일 및 스크립트 추가, 변경
 - **🔨 chore**: 소스 또는 테스트 파일을 수정하지 않는 기타 변경 사항
 - **⏪ revert**: 이전 커밋을 되돌림
-  
+
 **`pnpm commit`과 `git commit` 명령어는 commit 생성까지만 진행되기 때문에 추가적으로 `git push`를 진행해 주셔야 합니다.**
 
 ### CHANGELOG
