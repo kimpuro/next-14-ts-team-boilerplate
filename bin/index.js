@@ -5,7 +5,7 @@ const fs = require('fs')
 const path = require('path')
 
 const projectName = process.argv[2] || 'next-14-ts-team-project'
-const repoUrl = 'https://github.com/your-username/your-repo.git' // 레포지토리 URL로 변경
+const repoUrl = 'https://github.com/kimpuro/next-14-ts-team-boilerplate.git'
 
 console.log(`🚀 프로젝트를 생성 중입니다: ${projectName}`)
 
