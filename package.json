@@ -1,7 +1,18 @@
 {
-  "name": "next-14-ts-team-boilerplate",
-  "version": "1.0.0",
-  "private": true,
+  "name": "@kimpuro/next-14-ts-team",
+  "version": "1.0.1",
+  "main": "index.js",
+  "bin": {
+    "next-14-ts-team": "./bin/index.js"
+  },
+  "keywords": [
+    "next.js",
+    "typescript",
+    "starter",
+    "template"
+  ],
+  "author": "KimPuro",
+  "license": "MIT",
   "scripts": {
     "dev": "next dev",
     "build": "next build",
