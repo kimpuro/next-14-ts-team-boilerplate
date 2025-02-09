@@ -1,6 +1,6 @@
 {
   "name": "@kimpuro/next-14-ts-team",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "main": "index.js",
   "bin": {
     "next-14-ts-team": "./bin/index.js"
