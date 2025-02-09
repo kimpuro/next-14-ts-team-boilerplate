@@ -11,7 +11,7 @@ Next.js, React 및 Tailwind CSS를 사용하여 프로젝트를 시작할 수 �
 ### 1. npx로 설치
 
 ```bash
-npx @kimpuro/next-14-ts-boilerplate
+npx @kimpuro/next-14-ts-team
 ```
 
 ### 2. GitHub template을 사용
