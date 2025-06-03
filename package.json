@@ -1,6 +1,6 @@
 {
   "name": "@kimpuro/next-14-ts-team",
-  "version": "1.0.5",
+  "version": "1.0.6",
   "main": "index.js",
   "bin": {
     "next-14-ts-team": "./bin/index.js"
@@ -11,7 +11,7 @@
     "starter",
     "template"
   ],
-  "author": "KimPuro",
+  "author": "kimpuro",
   "license": "MIT",
   "scripts": {
     "dev": "next dev",
