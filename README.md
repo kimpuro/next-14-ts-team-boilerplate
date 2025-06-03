@@ -1,4 +1,5 @@
 # KimPuro's Next.js team project Boilerplate
+
 [NPM](https://www.npmjs.com/package/@kimpuro/next-14-ts-team)
 
 이 템플릿 레포지토리는 Next.js를 사용한 팀 프로젝트를 위한 보일러플레이트입니다.  
@@ -172,6 +173,11 @@ git cliff -o CHANGELOG.md
 이 템플릿에는 사전 생성된 Pull Request 템플릿이 포함되어 있습니다.  
 Pull Request를 생성하신다면 아래와 같은 템플릿으로 자동 생성됩니다. 체크 버튼을 클릭하시면서 작성하시면 됩니다.
 ![image](https://github.com/user-attachments/assets/b7707f37-d3b4-47d9-b0d6-6f68ff581f83)
+
+## Codecov
+
+Codecov를 사용하여 테스트 커버리지 측정을 자동화 할 수 있도록 기본적인 구조가 설정되어 있습니다.
+[링크](https://docs.codecov.com/docs/quick-start)에서 자세한 방법을 알아보세요.
 
 ## 📝 etc
 
