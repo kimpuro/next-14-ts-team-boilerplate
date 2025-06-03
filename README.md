@@ -176,9 +176,10 @@ Pull Request를 생성하신다면 아래와 같은 템플릿으로 자동 생�
 
 ## Codecov
 
-Codecov를 사용하여 테스트 커버리지 측정을 자동화 할 수 있도록 기본적인 구조가 설정되어 있습니다.
-[링크](https://docs.codecov.com/docs/quick-start)에서 자세한 방법을 알아보세요.
-Codecov를 사용하고 싶지 않으시다면 .github/workflows/codecov.yml과 codecov.yml을 삭제해 주시면 됩니다.
+Codecov를 사용하여 테스트 커버리지 측정을 자동화 할 수 있도록 기본적인 구조가 설정되어 있습니다.  
+[링크](https://docs.codecov.com/docs/quick-start)에서 자세한 방법을 알아보세요.  
+
+*Codecov를 사용하고 싶지 않으시다면 .github/workflows/codecov.yml과 codecov.yml을 삭제해 주시면 됩니다.
 
 ## 📝 etc
 
